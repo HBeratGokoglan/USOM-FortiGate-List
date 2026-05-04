@@ -21,7 +21,7 @@ To integrate these feeds:
 3. Provide the **Raw GitHub URL**:
    `https://raw.githubusercontent.com/[YOUR_USERNAME]/[REPO_NAME]/main/Level[X]/[FILENAME].txt`
 4. Configure **Refresh Rate** as per your security policy.
-5. Use the created objects in **DNS Filter**, **Web Filter**, or **Firewall Policies**.
+5. Use the created objects in **Firewall Policies**.
 
 ## Technical Notes
 - **Update Frequency:** Files are overwritten during each run to ensure only active threats are blocked.
